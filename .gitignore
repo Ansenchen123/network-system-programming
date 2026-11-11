@@ -1,0 +1,10 @@
+# 編譯產物
+midterm/server
+midterm/client
+*.so
+*.o
+*.a
+*.pcap
+
+# macOS
+.DS_Store
